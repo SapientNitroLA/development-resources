@@ -9,7 +9,7 @@
 
 ## RSS
 
-Recommended subscriptions: [OPML import file](https://github.com/SapientNitroLA/development-resources)
+Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/SapientNitroLA/development-resources/master/rss.opml)
 
 ### Services
  
