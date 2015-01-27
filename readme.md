@@ -64,3 +64,4 @@ Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/
 - Steve Souders: [@Souders](https://twitter.com/Souders)
 - Paul Irish: [@paul_irish](https://twitter.com/paul_irish)
 - Chrome DevTools: [@ChromeDevTools](https://twitter.com/ChromeDevTools)
+- GreenSock: [@GreenSock](https://twitter.com/GreenSock)
