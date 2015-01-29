@@ -92,6 +92,7 @@
             <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org"/>
             <outline type="rss" text="Brendan Eich" title="Brendan Eich" xmlUrl="http://brendaneich.com/feed/" htmlUrl="http://brendaneich.com"/>
             <outline type="rss" text="GreenSock Blog" title="GreenSock Blog" xmlUrl="http://greensock.com/feed/" htmlUrl="http://greensock.com/blog/"/>
+            <outline type="rss" text="Ilya Grigorik" title="Ilya Grigorik" xmlUrl="http://feeds.igvita.com/igvita" htmlUrl="https://www.igvita.com/"/>
         </outline>
     </body>
 </opml>
