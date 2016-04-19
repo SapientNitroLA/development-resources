@@ -95,6 +95,7 @@
             <outline type="rss" text="Ilya Grigorik" title="Ilya Grigorik" xmlUrl="http://feeds.igvita.com/igvita" htmlUrl="https://www.igvita.com/"/>
             <outline type="rss" text="Can I Use" title="When Can I Use updates" xmlUrl="http://feeds.feedburner.com/WhenCanIUse/" htmlUrl="http://caniuse.com/#info_news"/>
             <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://davidwalsh.name/feed" htmlUrl="http://davidwalsh.name/"/>
+            <outline type="rss" text="Shows - Google Developers" title="Shows - Google Developers" xmlUrl="https://developers.google.com/web/shows/rss.xml" htmlUrl="https://developers.google.com/web/shows/"/>
         </outline>
     </body>
 </opml>
