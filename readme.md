@@ -1,25 +1,22 @@
-# Development Resources
+# Developer Resources
 
 
 ## Podcasts
 
+### Audio
+
 - The Web Ahead: <http://5by5.tv/webahead>
 - JavaScript Jabber: <http://devchat.tv/js-jabber>
+
+### Video
+
+[TODO]
+
 
 
 ## RSS
 
-Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/SapientNitroLA/development-resources/master/rss.opml)
-
-### Services
- 
-  - <http://feedly.com>
-
-### Clients
-
-  - Web: <http://feedly.com>
-  - iOS: <http://reederapp.com>
-  - Android: ?
+Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/SapientNitroLA/development-resources/master/rss.opml).
 
 
 
@@ -27,6 +24,7 @@ Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/
 
 - HTML5/Node/JS Weeklies: <https://cooperpress.com>
 - Smashing Magazine: <http://www.smashingmagazine.com/the-smashing-newsletter>
+
 
 
 ## Twitter
