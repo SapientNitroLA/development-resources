@@ -10,9 +10,10 @@
 
 ### Video
 
-[TODO]
-
-
+- Totally Tooling Tips: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL>
+- HTTP 203: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9>
+- Supercharged: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr>
+- LazyWeb: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIAphRfFANEdt5WTb87aZZDk>
 
 ## RSS
 
@@ -64,3 +65,4 @@ Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/
 - The RICG: [@respimg](https://twitter.com/respimg)
 - Thomas Aylott: [@SubtleGradient](https://twitter.com/SubtleGradient)
 - Umar Hansa: [@umaar](https://twitter.com/umaar)
+- Todd Motto: [@toddmotto](https://twitter.com/toddmotto)
