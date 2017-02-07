@@ -8,6 +8,7 @@
 - The Web Ahead: <http://5by5.tv/webahead>
 - JavaScript Jabber: <http://devchat.tv/js-jabber>
 
+
 ### Video
 
 - Totally Tooling Tips: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL>
@@ -15,11 +16,15 @@
 - Supercharged: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr>
 - LazyWeb: <https://www.youtube.com/playlist?list=PLNYkxOF6rcIAphRfFANEdt5WTb87aZZDk>
 
+
+
 ## RSS
 
 Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/SapientNitroLA/development-resources/master/rss.opml).
 
+## Conferences
 
+- [JavaScript Conferences](https://github.com/prigara/javascript-conferences): Git repo with list of conferences for frontend and Node.js developers. Updated as the new events are announced.
 
 ## Newsletters
 
@@ -56,6 +61,7 @@ Recommended subscriptions: [OPML import file](https://raw.githubusercontent.com/
 - Jörn Zaefferer: [@bassistance](https://twitter.com/bassistance)
 - kangax: [@kangax](https://twitter.com/kangax)
 - Miller Medeiros: [@millermedeiros](https://twitter.com/millermedeiros)
+- Mathias Bynens: [@mathias](https://twitter.com/mathias)
 - Modernizr: [@Modernizr](https://twitter.com/Modernizr)
 - Paul Irish: [@paul_irish](https://twitter.com/paul_irish)
 - Scott González: [@scott_gonzalez](https://twitter.com/scott_gonzalez)

@@ -96,6 +96,7 @@
             <outline type="rss" text="Can I Use" title="When Can I Use updates" xmlUrl="http://feeds.feedburner.com/WhenCanIUse/" htmlUrl="http://caniuse.com/#info_news"/>
             <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://davidwalsh.name/feed" htmlUrl="http://davidwalsh.name/"/>
             <outline type="rss" text="Shows - Google Developers" title="Shows - Google Developers" xmlUrl="https://developers.google.com/web/shows/rss.xml" htmlUrl="https://developers.google.com/web/shows/"/>
+            <outline type="rss" text="Mathias Bynens" title="Notes (blog) RSS feed" xmlUrl="https://mathiasbynens.be/notes.rss" htmlUrl="https://mathiasbynens.be"/>
         </outline>
     </body>
 </opml>
